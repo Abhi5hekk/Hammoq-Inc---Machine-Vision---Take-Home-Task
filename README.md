@@ -1,1 +1,1 @@
-# Hammoq-Inc---Machine-Vision---Take-Home-Task
+# Hammoq-Inc-Machine-Vision-Take-Home-Task
